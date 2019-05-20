@@ -444,7 +444,7 @@ img{
 
 .main-header .header-top{
 	position: relative;
-	background-color: #03274a;
+	background-color: #b00739;
 	z-index: 999999;
 }
 
@@ -880,7 +880,7 @@ img{
 }
 
 .main-header .search-box-btn:hover{
-	color: #03274a;
+	color: #b00739;
 }
 
 .dropdown-toggle::after{
@@ -1299,7 +1299,7 @@ img{
 	height: 100%;
 	width: 100%;
 	content:'';
-	background-color: #03274a;
+	background-color: #b00739;
 	opacity: 0.50;
 }
 
@@ -2321,7 +2321,7 @@ img{
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: #03274a;
+	background-color: #b00739;
 	opacity: 0.85;
 	content: "";
 }
@@ -2395,7 +2395,7 @@ img{
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: #03274a;
+	background-color: #b00739;
 	opacity: 0.85;
 	content: "";
 }
@@ -3453,7 +3453,7 @@ img{
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: #03274a;
+	background-color: #b00739;
 	opacity: 0.90;
 	content: "";
 }
@@ -4179,7 +4179,7 @@ img{
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: #03274a;
+	background-color: #b00739;
 	content: "";
 	opacity: .90;
 }
@@ -5917,7 +5917,7 @@ img{
 	display: inline-block;
 	font-size: 14px;
 	line-height: 20px;
-	color: #03274a;
+	color: #b00739;
 	font-weight: 600;
 	text-transform: uppercase;
 	font-family: "Poppins", sans-serif;
@@ -6245,7 +6245,7 @@ img{
 
 .main-footer{
 	position:relative;
-	background-color: #03274a;
+	background-color: #b00739;
 }
 
 .main-footer .widgets-section{
@@ -6719,7 +6719,7 @@ img{
 	color: #ffffff;
 	font-weight: 600;
 	padding: 15px 27px;
-	background-color: #03274a;
+	background-color: #b00739;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
 	-ms-transition: all 300ms ease;
