@@ -353,7 +353,7 @@
 		position: relative;
 		font-size: 26px;
 		line-height: 1.2em;
-		color: #49c7ed;
+		color: #8c7a99;
 	}
 
 	.navbar-light .navbar-toggler{
@@ -412,7 +412,7 @@
 		padding:0px;
 		outline:none;
 		width:100%;
-		background:#49c7ed;
+		background:#8c7a99;
 		-webkit-border-radius:0px;
 		-ms-border-radius:0px;
 		-o-border-radius:0px;
@@ -466,7 +466,7 @@
 		color:#ffffff;
 		font-weight:500;
 		font-size:15px;
-		background:#49c7ed;
+		background:#8c7a99;
 		text-align:left;
 	}
 	
@@ -482,7 +482,7 @@
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
-		background:#49c7ed;
+		background:#8c7a99;
 		color:#ffffff !important;
 	}
 	
