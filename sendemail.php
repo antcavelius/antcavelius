@@ -1,8 +1,8 @@
 <?php
 
 // Define some constants
-define( "RECIPIENT_NAME", "John Doe" );
-define( "RECIPIENT_EMAIL", "youremail@@Email.com" );
+define( "RECIPIENT_NAME", "Sequani Voce" );
+define( "RECIPIENT_EMAIL", "contact@sequani-voce.com" );
 
 
 // Read the form values
@@ -25,7 +25,7 @@ if ( $userName && $senderEmail && $senderSubject && $message) {
 
 else{
 	//Set Location After Unsuccesssfull Submission
-  	header('Location: contact.html?message=Failed');	
+  	header('Location: contact.html?message=Failed');
 }
 
 ?>
